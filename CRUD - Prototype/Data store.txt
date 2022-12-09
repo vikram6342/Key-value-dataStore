@@ -1,0 +1,7 @@
+adithya,narayana
+hello world,bye
+
+vikram,jayanth
+programming,python
+new,value
+i am,vikram
